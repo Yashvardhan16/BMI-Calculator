@@ -32,3 +32,22 @@ function calculate() {
 		document.getElementById("results").innerHTML = "Negative Values not Allowed";
 	}
 }
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+///
+
+/////////
+///////////// Code by Yashvardhan16 2021
