@@ -1,7 +1,3 @@
-//
-///
-/////
-
 var weight, height, measure, bmi, error ;
 
 function calculate() {
@@ -36,22 +32,3 @@ function calculate() {
 		document.getElementById("results").innerHTML = "Negative Values not Allowed";
 	}
 }
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-///
-
-/////////
-/////////////
